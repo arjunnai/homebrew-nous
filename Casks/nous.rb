@@ -1,10 +1,10 @@
 cask "nous" do
   version "1.0.0"
   # REPLACE THIS WITH THE LONG STRING YOU GOT FROM THE TERMINAL COMMAND ABOVE
-  sha256 "573ec210ac074af2dd3d95c8988c62a245326a8806bd75fac4cedee647689516"
+  sha256 "9e5be680056c0bd72e90f7a61d847aefd1beb465554f8bd03ac9f34850210c36"
 
   # Your exact URL
-  url "https://github.com/arjunnai/nous-release/releases/download/v1.0/Nous.zip"
+  url "https://github.com/arjunnai/nous-release/releases/download/v1.1/Nous.zip"
 
   name "Nous"
   desc "The Academic Operating System"
